@@ -12,9 +12,9 @@
 用語上の混乱を招くおそれのあるものについては、原語を［ ］に入れて表記した。
 
 ---
-1 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf（閲覧日：2026年1月6日）
-2 Rae Wee. “China's Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023. https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/（accessed January 6, 2026）)
-3 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．https://www.meti.go.jp/press/2023/03/20240329006/20240329006.html（閲覧日：2026年1月6日）
+-1 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf（閲覧日：2026年1月6日）
+-2 Rae Wee. “China's Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023. https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/（accessed January 6, 2026）)
+-3 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．https://www.meti.go.jp/press/2023/03/20240329006/20240329006.html（閲覧日：2026年1月6日）
 4 一般社団法人キャッシュレス推進協議会．「2022年の世界主要国におけるキャッシュレス決済比率を算出しました」．2024年9月2日．https://paymentsjapan.or.jp/publications/2022%e5%b9%b4%e3%81%ae%e4%b8%96%e7%95%8c%e4%b8%bb%e8%a6%81%e5%9b%bd%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ac%e3%82%b9%e6%b1%ba%e6%b8%88%e6%af%94/（閲覧日：2026年1月6日）
 5厚生労働省．「労働基準法施行規則の一部を改正する省令（厚生労働省令第158号）」．2022年11月28日https://www.mhlw.go.jp/content/11200000/001017141.pdf（閲覧日：2026年1月6日）
 6 厚生労働省．「資金移動業者の口座への賃金支払（賃金のデジタル払い）について」．（掲載日：ページ上で随時更新）．https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03_00028.html（閲覧日：2026年1月6日）
