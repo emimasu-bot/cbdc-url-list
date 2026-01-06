@@ -2,7 +2,9 @@
 ## The Future of Digital Currency: Examined Through a Comparison of CBDC Implementation Processes in Japan and China
 
 ### 参考文献リスト
-本ページは、上記論文で引用した参考文献を、URLを含めて一覧化したものである。本文および脚注では、字数制限の都合上URLを省略しており、本ページは参照利便のために全文献のURL情報を集約したものである。
+本ページは、上記論文で引用した参考文献を、URLを含めて一覧化したものである。
+本文および脚注では字数制限の都合上URLを省略しており、本ページは参照利便のために全文献のURL情報を集約した補助資料である。
+
 URL最終閲覧日：2026年1月6日
 
 ---
