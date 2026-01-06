@@ -106,7 +106,7 @@ URL最終閲覧日：2026年1月6日
 
 50 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
-51 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.html
+51 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.htm
 
 52 日本銀行．中央銀行デジタル通貨に関する日本銀行の取り組み方針．2020年10月9日．https://www.boj.or.jp/paym/digital/data/rel201009e1.pdf
 
