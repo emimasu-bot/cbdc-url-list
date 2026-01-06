@@ -80,11 +80,11 @@ URL最終閲覧日：2026年1月6日
 
 37 中国日报网．多地公布2023年数字人民币试点成绩单．2024-03-14．https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html
 
-38 Wee, Rae．前掲注36．
+38 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023. https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
 
 39 第五届数字中国建设峰会．2022-07-23．http://www.legaldaily.com.cn/zt/node_107089.html
 
-40 人民網日本語版．前掲注24．
+40 人民網日本語版「デジタル人民元のテスト拡大 国境を越えた利用を推進」．2021年3月．http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
 
 41 中国人民银行．《中华人民共和国中国人民银行法（修订草案征求意见稿）》公开征求意见的通知．2020-10-23．https://www.gov.cn/zhengce/zhengceku/2020-10/24/content_5553847.html
 
@@ -94,16 +94,17 @@ URL最終閲覧日：2026年1月6日
 
 44 岡野寿彦「中国デジタル化の進展と法整備の課題」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月，24–25頁，30頁． 
 
-45松尾剛行・胡悦「個人情報の保護と国家のデータ利用」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月，75–105頁．
+45 松尾剛行・胡悦「個人情報の保護と国家のデータ利用」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月，75–105頁．
 
 46 钟英通・肖扬．《社会货币论下数字形态人民币国际化与法制建设》．《武大国际法评论》2023（3）：138–157．
 
 47 岡野寿彦「デジタル人民元の背景と展望」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月，195–211頁．
 
 48 Anneke Kosse and Ilaria Mattei. “Making Headway: Results of the 2022 BIS Survey on Central Bank Digital Currencies and Crypto.” Bank for International Settlements, 2023. https://www.bis.org/publ/bppdf/bispap136.html
-49 Liu Ran, Wu Xiaomeng．前掲注27．
 
-50 Eiichi Sekine．前掲注25．
+49 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022. https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
+
+50 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
 51 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.html
 
@@ -113,16 +114,17 @@ URL最終閲覧日：2026年1月6日
 
 54 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ2」結果報告書』．2023年4月17日．https://www.boj.or.jp/paym/digital/dig230417a.pdf
 
-55 日本銀行決済機構局．前掲注12．
+55 日本銀行．中央銀行デジタル通貨に関する実証実験「パイロット実験」の進捗状況．2024年4月22日．https://www.boj.or.jp/paym/digital/dig240422a.pdf
 
 56 国立印刷局CBDC研究会．中央銀行デジタル通貨（CBDC）に関するレポート（令和5年度）．2024年7月．https://www.npb.go.jp/zyohoteikyo/kohyou.files/202407_CBDC.pdf
+
 57 佐藤良「中央銀行デジタル通貨（CBDC）をめぐる動向」『レファレンス』882（2024年6月）：51–77頁．
 
 58 谷雅彰「中央銀行デジタル通貨（CBDC）の制度設計の大枠の整理に向けて」『ファイナンス』令和5年3月号，2023年3月，36–39頁．
 
 59 久保田隆『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月：208頁．
 
-60 Bank for International Settlements．前掲注51．
+60 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.html
 
 61 久保田隆『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月，213頁．
 
