@@ -2,14 +2,8 @@
 ## The Future of Digital Currency: Examined Through a Comparison of CBDC Implementation Processes in Japan and China
 
 ### 参考文献リスト
-本ページは、上記論文で引用した参考文献を、URLを含めた参考文献一覧である。
-最終閲覧日：2026年1月6日
-
-参考文献の表記は、中国語の資料についてはGB/T 7714-2015、
-英語の資料についてはChicago Manual of Style第17版（Notes and Bibliography）、
-日本語の資料についてはJIS Z 8301の形式に従った。
-また、中国語の法学上の概念や用語のうち、日本法や日本語に直接対応させて訳出・説明することが困難で、
-用語上の混乱を招くおそれのあるものについては、原語を［ ］に入れて表記した。
+本ページは、上記論文で引用した参考文献を、URLを含めて一覧化したものである。本文および脚注では、字数制限の都合上URLを省略しており、本ページは参照利便のために全文献のURL情報を集約したものである。
+URL最終閲覧日：2026年1月6日
 
 ---
 1 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf
@@ -32,13 +26,13 @@
 
 10 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』日本銀行，2022年4月．https://www.boj.or.jp/paym/digital/rel220413b.pdf
 
-11日本銀行決済機構局．中央銀行デジタル通貨に関する実証実験について．2023年2月17日．https://www.boj.or.jp/paym/digital/dig230217b.pdf
+11 日本銀行決済機構局．中央銀行デジタル通貨に関する実証実験について．2023年2月17日．https://www.boj.or.jp/paym/digital/dig230217b.pdf
 
-12日本銀行．中央銀行デジタル通貨に関する実証実験「パイロット実験」の進捗状況．2024年4月22日．https://www.boj.or.jp/paym/digital/dig240422a.pdf
+12 日本銀行．中央銀行デジタル通貨に関する実証実験「パイロット実験」の進捗状況．2024年4月22日．https://www.boj.or.jp/paym/digital/dig240422a.pdf
 
-13財務省．前掲注1．
-
-14中国人民银行．《中国数字人民币的研发进展白皮书》．2021-07-16．http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/4293590/2021071614200022055.pdf
+13 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf
+ 
+14 中国人民银行．《中国数字人民币的研发进展白皮书》．2021-07-16．http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/4293590/2021071614200022055.pdf
 
 15 JST．樋口洋介の金融から見る中国経済【21-07】デジタル人民白書．2021年7月28日．https://spc.jst.go.jp/experiences/tsuyuguchi/tsuyuguchi_2107.html
 
@@ -50,11 +44,11 @@
 
 19 穆长春．数字人民币采用双层运营体系．中国金融，2020（8）：20–22．
 
-20 中国人民银行．前掲注14．
+20 中国人民银行．《中国数字人民币的研发进展白皮书》．2021-07-16．http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/4293590/2021071614200022055.pdf
 
 21 潮田玲子「デジタル人民元の足元の動向」『国際通貨研究所レポート』2022年2月28日．https://www.iima.or.jp/docs/international/2022/if2022.9.pdf
 
-22 中国人民银行．前掲注14．
+22 中国人民银行．《中国数字人民币的研发进展白皮书》．2021-07-16．http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/4293590/2021071614200022055.pdf
 
 23 楊晶晶「実証実験が進むデジタル人民元」『金融ITフォーカス』2021年2月号：10–11頁．
 
@@ -62,19 +56,19 @@
 
 25 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
-26 Eiichi Sekine．前掲注25．
+26 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
 27 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022. https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
 
 28 Digital Pound Foundation. “Travellers in China Can Now Top-Up Digital Yuan Wallets with Visa and Mastercard.” September 25, 2023. https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yuan-wallets-with-visa-and-mastercard.
 
-29 関根栄一．前掲注17．
+29 関根栄一．中国の人民元国際化戦略とデジタル人民元との関係・展望．『フィナンシャル・レビュー』153（2023年）：230–233頁．
 
 30 関根栄一「拡大するデジタル人民元の国内実験地域と国際決済に向けた展望」野村資本市場研究所，2022年4月．http://www.nicmr.com/nicmr/report/repo/2022/2022aut04.pdf
 
 31 関根栄一「『デジタル人民元』の中国国内での初の市民参加型実験の概要―深セン市・蘇州市に加え、北京冬季五輪での実験も始動―」『野村資本市場クォータリー』2021年冬号（2021年3月）：23–32頁．
 
-32 楊晶晶．前掲注23．
+32  楊晶晶「実証実験が進むデジタル人民元」『金融ITフォーカス』2021年2月号：10–11頁．
 
 33 Bloomberg. “China Expands Digital Yuan Trial to More Cities.” April 2, 2022. https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities
 
