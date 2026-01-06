@@ -100,7 +100,7 @@ URL最終閲覧日：2026年1月6日
 
 47 岡野寿彦「デジタル人民元の背景と展望」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月，195–211頁．
 
-48 Anneke Kosse and Ilaria Mattei. “Making Headway: Results of the 2022 BIS Survey on Central Bank Digital Currencies and Crypto.” Bank for International Settlements, 2023. https://www.bis.org/publ/bppdf/bispap136.html
+48 Anneke Kosse and Ilaria Mattei. “Making Headway: Results of the 2022 BIS Survey on Central Bank Digital Currencies and Crypto.” Bank for International Settlements, 2023. https://www.bis.org/publ/bppdf/bispap136.htm
 
 49 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022. https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
 
