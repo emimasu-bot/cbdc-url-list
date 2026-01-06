@@ -22,7 +22,7 @@ URL最終閲覧日：2026年1月6日
 
 8 厚生労働省．「資金移動業者の口座への賃金支払（賃金のデジタル払い）における資金移動業者の指定」．2024年8月9日．https://www.mhlw.go.jp/stf/newpage_41528.html
 
-9 Bank for International Settlements.“Central bank group to assess potential cases for central bank digital currencies.” January 21, 2020.https://www.bis.org/press/p200121.html
+9 Bank for International Settlements.“Central bank group to assess potential cases for central bank digital currencies.” January 21, 2020.https://www.bis.org/press/p200121.htm
 
 10 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』日本銀行，2022年4月．https://www.boj.or.jp/paym/digital/rel220413b.pdf
 
