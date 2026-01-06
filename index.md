@@ -53,7 +53,8 @@ https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-str
 
 23 楊晶晶「実証実験が進むデジタル人民元」『金融ITフォーカス』2021年2月号：10–11頁．
 
-24 人民網日本語版「デジタル人民元のテスト拡大 国境を越えた利用を推進」．2021年3月．http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
+24 人民網日本語版「デジタル人民元のテスト拡大 国境を越えた利用を推進」．2021年3月．
+http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
 
 25 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
