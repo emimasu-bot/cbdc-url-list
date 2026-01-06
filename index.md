@@ -12,8 +12,7 @@
 用語上の混乱を招くおそれのあるものについては、原語を［ ］に入れて表記した。
 
 ---
-1 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf,（閲覧日：2026年1月6日）
-
+1 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf
 2 Rae Wee. “China's Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023. https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/,（accessed January 6, 2026）)
 
 3 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．https://www.meti.go.jp/press/2023/03/20240329006/20240329006.html,（閲覧日：2026年1月6日）
