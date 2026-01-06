@@ -113,16 +113,14 @@
 
 51 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.html
 
-52 日本銀行．中央銀行デジタル通貨に関する日本銀行の取り組み方針．2020年10月9日．https://www.boj.or.jp/paym/digital/data/rel201009e1.pdf（閲覧日：2026年1月6日）
+52 日本銀行．中央銀行デジタル通貨に関する日本銀行の取り組み方針．2020年10月9日．https://www.boj.or.jp/paym/digital/data/rel201009e1.pdf
 
-53 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』．2022年4月13日．https://www.boj.or.jp/paym/digital/rel220413b.pdf（閲覧日：2026年1月6日）
-
-54 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ2」結果報告書』．2023年4月17日．https://www.boj.or.jp/paym/digital/dig230417a.pdf（閲覧日：2026年1月6日）
+53 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』．2022年4月13日．https://www.boj.or.jp/paym/digital/rel220413b.pdf
+54 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ2」結果報告書』．2023年4月17日．https://www.boj.or.jp/paym/digital/dig230417a.pdf
 
 55 日本銀行決済機構局．前掲注12．
 
-56 国立印刷局CBDC研究会．中央銀行デジタル通貨（CBDC）に関するレポート（令和5年度）．2024年7月．https://www.npb.go.jp/zyohoteikyo/kohyou.files/202407_CBDC.pdf （閲覧日：2026年1月6日）
-
+56 国立印刷局CBDC研究会．中央銀行デジタル通貨（CBDC）に関するレポート（令和5年度）．2024年7月．https://www.npb.go.jp/zyohoteikyo/kohyou.files/202407_CBDC.pdf
 57 佐藤良「中央銀行デジタル通貨（CBDC）をめぐる動向」『レファレンス』882（2024年6月）：51–77頁．
 
 58 谷雅彰「中央銀行デジタル通貨（CBDC）の制度設計の大枠の整理に向けて」『ファイナンス』令和5年3月号，2023年3月，36–39頁．
