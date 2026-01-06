@@ -8,7 +8,8 @@ URL最終閲覧日：2026年1月6日
 ---
 1 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf
  
-2 Rae Wee. “China's Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023. https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
+2 Rae Wee. “China's Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023. 
+https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 3 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．https://www.meti.go.jp/press/2023/03/20240329006/20240329006.html
 
@@ -58,7 +59,8 @@ URL最終閲覧日：2026年1月6日
 
 26 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
-27 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022. https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
+27 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022.
+https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
 
 28 Digital Pound Foundation. “Travellers in China Can Now Top-Up Digital Yuan Wallets with Visa and Mastercard.” September 25, 2023. https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yuan-wallets-with-visa-and-mastercard.
 
@@ -68,19 +70,22 @@ URL最終閲覧日：2026年1月6日
 
 31 関根栄一「『デジタル人民元』の中国国内での初の市民参加型実験の概要―深セン市・蘇州市に加え、北京冬季五輪での実験も始動―」『野村資本市場クォータリー』2021年冬号（2021年3月）：23–32頁．
 
-32  楊晶晶「実証実験が進むデジタル人民元」『金融ITフォーカス』2021年2月号：10–11頁．
+32 楊晶晶「実証実験が進むデジタル人民元」『金融ITフォーカス』2021年2月号：10–11頁．
 
-33 Bloomberg. “China Expands Digital Yuan Trial to More Cities.” April 2, 2022. https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities
+33 Bloomberg. “China Expands Digital Yuan Trial to More Cities.” April 2, 2022.
+https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities
 
 34 New Economy「BIS、中国主導の『中銀デジタル通貨』プロジェクトから離脱」［オンライン］．2024年10月31日．https://www.neweconomy.jp/posts/428515
 
 35 移动支付网．易纲：数字人民币交易额达1.8万亿，10个月增长近1700％．2023-08-01．https://www.mpaypass.com.cn/news/202308/01174506.html
 
-36 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023. https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
+36 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023. 
+https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
 
 37 中国日报网．多地公布2023年数字人民币试点成绩单．2024-03-14．https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html
 
-38 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023. https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
+38 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023. 
+https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
 
 39 第五届数字中国建设峰会．2022-07-23．http://www.legaldaily.com.cn/zt/node_107089.html
 
@@ -102,7 +107,8 @@ URL最終閲覧日：2026年1月6日
 
 48 Anneke Kosse and Ilaria Mattei. “Making Headway: Results of the 2022 BIS Survey on Central Bank Digital Currencies and Crypto.” Bank for International Settlements, 2023. https://www.bis.org/publ/bppdf/bispap136.htm
 
-49 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022. https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
+49 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022. 
+https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan.
 
 50 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 （Autumn 2022）: pp. 4–8.
 
