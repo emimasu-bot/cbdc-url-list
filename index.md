@@ -12,14 +12,14 @@
 〔脚注1〕 財務省．CBDC（中央銀行デジタル通貨）に関する有識者会議取りまとめ（令和5年12月13日）（概要）．2023年12月13日．
 https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf
 
-〔脚注2〕 Rae Wee. “China's Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.
+〔脚注2〕 Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.
 https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 〔脚注3〕 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．
 https://www.meti.go.jp/press/2023/03/20240329006/20240329006.html
 
 〔脚注4〕 一般社団法人キャッシュレス推進協議会．「2022年の世界主要国におけるキャッシュレス決済比率を算出しました」．2024年9月2日．
-https://paymentsjapan.or.jp/publications/2022%e5%b9%b4%e3%81%ae%e4%b8%96%e7%95%8c%e4%b8%bb%e8%a6%81%e5%9b%bd%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ac%e3%82%b9%e6%b1%ba%e6%b8%88%e6%af%94/
+https://paymentsjapan.or.jp/publications/2022%e5%b9%b4%e3%81%ae%e4%b8%96%e7%95%8c%e4%b8%bb%e8%a6%81%e5%9b%bd%e3%81%ab%e3%81%8a%e3%81%91%e3%82%b8%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ac%e3%82%b9%e6%b1%ba%e6%b8%88%e6%af%94/
 
 〔脚注5〕 厚生労働省．「労働基準法施行規則の一部を改正する省令（厚生労働省令第158号）」．2022年11月28日．
 https://www.mhlw.go.jp/content/11200000/001017141.pdf
@@ -77,9 +77,7 @@ http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/4293590/2021071614200022055.p
 〔脚注24〕 人民網日本語版「デジタル人民元のテスト拡大 国境を越えた利用を推進」．2021年3月．
 http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
 
-〔脚注25〕 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 (Autumn 2022): pp. 4–8.
-
-〔脚注26〕 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 (Autumn 2022): pp. 4–8.
+〔脚注25・26〕 Eiichi Sekine. “China’s Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 (Autumn 2022): pp. 4–8.
 
 〔脚注27〕 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022.
 https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan
@@ -105,13 +103,13 @@ https://www.neweconomy.jp/posts/428515
 〔脚注35〕 移动支付网．易纲：数字人民币交易额达1.8万亿，10个月增长近1700％．2023-08-01．
 https://www.mpaypass.com.cn/news/202308/01174506.html
 
-〔脚注36〕 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.
+〔脚注36〕 Wee, Rae. “China’s Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.
 https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
 
 〔脚注37〕 中国日报网．多地公布2023年数字人民币试点成绩单．2024-03-14．
 https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html
 
-〔脚注38〕 Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.
+〔脚注38〕 Wee, Rae. “China’s Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.
 https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/
 
 〔脚注39〕 第五届数字中国建设峰会．2022-07-23．
@@ -142,7 +140,7 @@ https://www.bis.org/publ/bppdf/bispap136.htm
 〔脚注49〕 Liu Ran, Wu Xiaomeng, and Denise Jia. “The Challenges Ahead for China’s Digital Yuan.” Nikkei Asia, August 15, 2022.
 https://asia.nikkei.com/Spotlight/Caixin/The-challenges-ahead-for-China-s-digital-yuan
 
-〔脚注50〕 Eiichi Sekine. “China's Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 (Autumn 2022): pp. 4–8.
+〔脚注50〕 Eiichi Sekine. “China’s Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements.” Nomura Journal of Asian Capital Markets 7, no. 1 (Autumn 2022): pp. 4–8.
 
 〔脚注51〕 Bank for International Settlements. Central bank digital currencies: foundational principles and core features. October 2020.
 https://www.bis.org/publ/othp33.htm
@@ -166,16 +164,17 @@ https://www.npb.go.jp/zyohoteikyo/kohyou.files/202407_CBDC.pdf
 
 〔脚注58〕 谷雅彰「中央銀行デジタル通貨（CBDC）の制度設計の大枠の整理に向けて」『ファイナンス』令和5年3月号，2023年3月，36–39頁．
 
-〔脚注59〕 久保田隆．『法律学者の貨幣論: デジタル通貨・CBDCの未来』．中央経済グループパブリッシング，2023年9月，208頁．
+〔脚注59〕 久保田隆．『法律学者の貨幣論：デジタル通貨・CBDCの未来』．中央経済グループパブリッシング，2023年9月，208頁．
 
 〔脚注60〕 Bank for International Settlements. Central bank digital currencies: foundational principles and core features. October 2020.
 https://www.bis.org/publ/othp33.htm
 
-〔脚注61〕 久保田隆．『法律学者の貨幣論: デジタル通貨・CBDCの未来』．中央経済グループパブリッシング，2023年9月，213頁．
+〔脚注61〕 久保田隆．『法律学者の貨幣論：デジタル通貨・CBDCの未来』．中央経済グループパブリッシング，2023年9月，213頁．
 
 〔脚注62〕 楢崎正道「特集 新しい通貨―CBDC Central Bank Digital Currency―」『ファイナンス』令和3年6月号，2021年6月，3–16頁．
 
 〔脚注63〕 加毛明「デジタル・トークンと法」『金融・商事判例』No.1611（2021年3月増刊号），2021年3月，6–12頁．
+
 
 
 
