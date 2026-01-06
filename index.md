@@ -112,6 +112,7 @@
 50 Eiichi Sekine．前掲注25．
 
 51 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.htm
+
 52 日本銀行．中央銀行デジタル通貨に関する日本銀行の取り組み方針．2020年10月9日．https://www.boj.or.jp/paym/digital/data/rel201009e1.pdf
 
 53 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』．2022年4月13日．https://www.boj.or.jp/paym/digital/rel220413b.pdf
