@@ -124,7 +124,7 @@ URL最終閲覧日：2026年1月6日
 
 59 久保田隆『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月：208頁．
 
-60 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.html
+60 Bank for International Settlements.Central bank digital currencies: foundational principles and core features.October 2020.https://www.bis.org/publ/othp33.htm
 
 61 久保田隆『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月，213頁．
 
