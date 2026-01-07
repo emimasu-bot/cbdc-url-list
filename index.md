@@ -61,7 +61,7 @@ https://www.boj.or.jp/paym/digital/dig240422a.pdf
 https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf  
 
 〔脚注14〕  
-中国人民银行．《中国数字人民币的研发进展白皮书》．2021-07-16．  
+中国人民银行．《中国数字人民币的研发进展白皮书》．2021年7月16日．  
 http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/4293590/2021071614200022055.pdf  
 
 〔脚注15〕  
@@ -120,7 +120,7 @@ Digital Pound Foundation．“Travellers in China Can Now Top-Up Digital Yuan Wa
 https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yuan-wallets-with-visa-and-mastercard  
 
 〔脚注29〕  
-移动支付网．易纲：数字人民币交易额达1.8万亿，10个月增长近1700％．2023-08-01．  
+移动支付网．易纲：数字人民币交易额达1.8万亿，10个月增长近1700％．2022年8月1日．  
 https://www.mpaypass.com.cn/news/202308/01174506.html  
 
 〔脚注30〕  
@@ -133,9 +133,6 @@ https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-tr
 〔脚注31〕  
 中国日报网．多地公布2023年数字人民币试点成绩单．2024-03-14．  
 https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html  
-
-あたらしい経済「BIS、中国主導の『中銀デジタル通貨』プロジェクトから離脱」．2024年10月31日．  
-https://www.neweconomy.jp/posts/428515  
 
 〔脚注32〕  
 Wee，Rae．“China’s Digital Yuan Transactions Seeing Strong Momentum，Says Cbank Gov Yi．” KELO，July 19，2023．  
