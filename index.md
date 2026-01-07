@@ -34,8 +34,8 @@ https://www.mhlw.go.jp/content/11200000/001017141.pdf
 https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03_00028.html　　
 
 〔脚注7〕
-Naoko Kutty and Naoko Tochibayashi．“How Japan Is Moving Towards a Cashless Society: Digital Salary Payments．” World Economic Forum，September 20，2022．
-https://www.weforum.org/stories/2022/09/japan-cashless-society-digital-salary-payment/　　
+Naoko Kutty and Naoko Tochibayashi．“How Japan Is Moving Towards a Cashless Society: Digital Salary Payments．” World Economic Forum，September 20，2022．  
+https://www.weforum.org/stories/2022/09/japan-cashless-society-digital-salary-payment/
 
 〔脚注8〕
 厚生労働省．「資金移動業者の口座への賃金支払（賃金のデジタル払い）における資金移動業者の指定」．2024年8月9日．
