@@ -147,11 +147,11 @@ https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momen
 
 〔脚注36〕
 第五届数字中国建设峰会．2022年7月23日．
-http://www.legaldaily.com.cn/zt/node_107089.html　　
+http://www.legaldaily.com.cn/zt/node_107089.html
 
 〔脚注37〕
 人民網日本語版「デジタル人民元のテスト拡大 国境を越えた利用を推進」．2021年3月．
-http://j.people.com.cn/n3/2021/0312/c94476-9828468.html　　
+http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
 
 〔脚注38〕
 中国人民银行．《中华人民共和国中国人民银行法（修订草案征求意见稿）》公开征求意见的通知．2020年10月23日．
@@ -159,7 +159,7 @@ https://www.gov.cn/zhengce/zhengceku/2020-10/24/content_5553847.html
 
 〔脚注39〕
 “China Has Problems with Fake Wallets Copying Its Digital Yuan．” Protos，February 27，2024．
-https://protos.com/china-has-problems-with-fake-wallets-copying-its-digital-yuan/　　
+https://protos.com/china-has-problems-with-fake-wallets-copying-its-digital-yuan/
 
 〔脚注40〕
 李立，丰张鑫蕾．盗窃法定数字货币行为的刑法认定．《武汉大学学报（哲学社会科学版）》77（3）（2024）：29–39．　　
