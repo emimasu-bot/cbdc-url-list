@@ -119,7 +119,7 @@ https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yu
 
 〔脚注29〕
 関根栄一「拡大するデジタル人民元の国内実験地域と国際決済に向けた展望」『野村資本市場クォータリー』2022年秋号，36–54頁．
-https://www.nicmr.com/nicmr/report/repo/2022/2022aut04.pdf　　
+https://www.nicmr.com/nicmr/report/repo/2022/2022aut04.pdf
 
 〔脚注30〕
 Bloomberg．“China Expands Digital Yuan Trial to More Cities．” April 2，2022．
