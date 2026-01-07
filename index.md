@@ -29,8 +29,8 @@ https://paymentsjapan.or.jp/publications/2022%E5%B9%B4%E3%81%AE%E4%B8%96%E7%95%8
 https://www.mhlw.go.jp/content/11200000/001017141.pdf  
 
 〔脚注6〕  
-厚生労働省．賃金のデジタル払いについて（労働基準法施行規則改正に基づく指定資金移動業者制度。指定資金移動業者一覧および審査状況を含む）．2025年4月4日．
-https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000195616_00002.html  
+厚生労働省．賃金のデジタル払いについて（労働基準法施行規則改正に基づく指定資金移動業者制度。指定資金移動業者一覧および審査状況を含む）．2025年4月4日．　
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03_00028.html
 
 〔脚注7〕  
 Naoko Kutty and Naoko Tochibayashi．“How Japan Is Moving Towards a Cashless Society: Digital Salary Payments．” World Economic Forum，September 20，2022．  
