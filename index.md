@@ -102,7 +102,7 @@ http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
 https://www.nri.com/content/900035347.pdf
 
 〔脚注25〕
-Eiichi Sekine．“China’s Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements．” Nomura Journal of Asian Capital Markets 7，no．1（Autumn 2022）：pp．4–8．　　　　
+Eiichi Sekine．“China’s Digital Yuan: Recent Trial Runs and Prospects for Its Use in International Settlements．” Nomura Journal of Asian Capital Markets 7，no．1（Autumn 2022）：pp．4–8．
 https://www.nomurafoundation.or.jp/wordpress/wp-content/uploads/2022/09/NJACM7-1AU22-02.pdf
 
 〔脚注26〕
