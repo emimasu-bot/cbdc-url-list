@@ -42,8 +42,8 @@ https://www.weforum.org/stories/2022/09/japan-cashless-society-digital-salary-pa
 https://www.mhlw.go.jp/stf/newpage_41528.html
 
 〔脚注9〕
-Bank for International Settlements．“Central bank group to assess potential cases for central bank digital currencies．” January 21，2020．
-https://www.bis.org/press/p200121.htm　　
+Bank for International Settlements．“Central bank group to assess potential cases for central bank digital currencies．” January 21，2020．  
+https://www.bis.org/press/p200121.htm
 
 〔脚注10〕
 日本銀行決済機構局．『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』日本銀行，2022年4月．
