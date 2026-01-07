@@ -13,8 +13,8 @@
 https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf  
 
 〔脚注2〕  
-Rae Wee．“China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi．” Reuters，July 23，2023．  
-https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/  
+Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.　
+https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 〔脚注3〕  
 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．  
@@ -124,8 +124,8 @@ https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yu
 https://www.mpaypass.com.cn/news/202308/01174506.html  
 
 〔脚注30〕  
-Wee，Rae．“China’s Digital Yuan Transactions Seeing Strong Momentum，Says Cbank Gov Yi．” KELO，July 19，2023．  
-https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/  
+ Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.　　
+https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 Bloomberg．“China Expands Digital Yuan Trial to More Cities．” April 2，2022．  
 https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities  
@@ -135,8 +135,8 @@ https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-tr
 https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html  
 
 〔脚注32〕  
-Wee，Rae．“China’s Digital Yuan Transactions Seeing Strong Momentum，Says Cbank Gov Yi．” KELO，July 19，2023．  
-https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi/  
+Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.　
+https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 〔脚注33〕  
 第五届数字中国建设峰会．2022年7月23日．  
