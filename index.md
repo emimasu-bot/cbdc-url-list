@@ -203,4 +203,23 @@ https://www.npb.go.jp/zyohoteikyo/kohyou.files/202407_CBDC.pdf
 〔脚注49〕  
 佐藤良「中央銀行デジタル通貨（CBDC）をめぐる動向」『レファレンス』882（2024年6月）：51–77頁．  
 
-〔脚注50〕
+〔脚注50〕  
+谷雅彰「中央銀行デジタル通貨（CBDC）の制度設計の大枠の整理に向けて」『ファイナンス』令和5年3月号，2023年3月，36–39頁．  
+
+〔脚注51〕  
+久保田隆『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月：208頁．  
+
+〔脚注52〕  
+Bank for International Settlements．Central bank digital currencies: foundational principles and core features．October 2020．  
+https://www.bis.org/publ/othp33.htm  
+
+〔脚注53〕  
+久保田隆『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月：213頁．  
+
+〔脚注54〕  
+楢崎正道「特集 新しい通貨―CBDC Central Bank Digital Currency―」『ファイナンス』令和3年6月号，2021年6月，3–16頁．  
+
+〔脚注55〕  
+加毛明「デジタル・トークンと法」『金融・商事判例』No．1611（2021年3月増刊号），2021年3月，6–12頁．  
+https://emimasu-bot.github.io/cbdc-url-list/  
+
