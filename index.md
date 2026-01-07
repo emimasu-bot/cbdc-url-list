@@ -194,7 +194,7 @@ https://www.boj.or.jp/paym/digital/rel220413b.pdf
 
 〔脚注49〕
 日本銀行決済機構局『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ2」結果報告書』．2023年4月17日．
-https://www.boj.or.jp/paym/digital/dig230417a.pdf　　
+https://www.boj.or.jp/paym/digital/dig230417a.pdf
 
 〔脚注50〕
 日本銀行．中央銀行デジタル通貨に関する実証実験「パイロット実験」の進捗状況．2024年4月22日．
