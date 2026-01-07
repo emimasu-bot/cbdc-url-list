@@ -139,7 +139,7 @@ https://kelo.com/2023/07/19/chinas-digital-yuan-transactions-seeing-strong-momen
 
 〔脚注34〕
 中国日报网．多地公布2023年数字人民币试点成绩单．2024-03-14．
-https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html　　
+https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html
 
 〔脚注35〕
 Wee，Rae．“China’s Digital Yuan Transactions Seeing Strong Momentum，Says Cbank Gov Yi．” KELO，July 19，2023．
