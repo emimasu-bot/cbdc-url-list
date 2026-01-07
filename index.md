@@ -155,7 +155,7 @@ http://j.people.com.cn/n3/2021/0312/c94476-9828468.html
 
 〔脚注38〕
 中国人民银行．《中华人民共和国中国人民银行法（修订草案征求意见稿）》公开征求意见的通知．2020年10月23日．
-https://www.gov.cn/zhengce/zhengceku/2020-10/24/content_5553847.html
+https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2025092212551077683/index.html
 
 〔脚注39〕
 “China Has Problems with Fake Wallets Copying Its Digital Yuan．” Protos，February 27，2024．
