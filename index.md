@@ -13,7 +13,7 @@
 https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20231213torimatomegaiyou.pdf  
 
 〔脚注2〕  
-Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.　
+Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.　　
 https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 〔脚注3〕  
@@ -41,8 +41,10 @@ https://www.weforum.org/stories/2022/09/japan-cashless-society-digital-salary-pa
 https://www.mhlw.go.jp/stf/newpage_41528.html  
 
 〔脚注9〕  
-Bank for International Settlements．“Central bank group to assess potential cases for central bank digital currencies．” January 21，2020．  
-https://www.bis.org/press/p200121.htm  
+  Bank for International Settlements. “Central bank group to assess potential cases for central bank digital currencies.” Press release, January 21, 2020.　
+https://www.bis.org/press/p200121.htm
+
+（脚注43）
 
 〔脚注10〕  
 日本銀行決済機構局．『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』日本銀行，2022年4月．  
@@ -124,18 +126,15 @@ https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yu
 https://www.mpaypass.com.cn/news/202308/01174506.html  
 
 〔脚注30〕  
- Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.　　
+Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.　　
 https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
-Bloomberg．“China Expands Digital Yuan Trial to More Cities．” April 2，2022．  
-https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities  
-
 〔脚注31〕  
-中国日报网．多地公布2023年数字人民币试点成绩单．2024-03-14．  
+中国日报网．多地公布2023年数字人民币试点成绩单．2024年3月14日．  
 https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html  
 
 〔脚注32〕  
-Rae Wee. “China’s Digital Yuan Transactions Seeing Strong Momentum: Says Cbank Gov Yi.” Reuters, July 23, 2023.　
+Wee, Rae. “China's Digital Yuan Transactions Seeing Strong Momentum, Says Central Bank Governor Yi.” KELO, July 19, 2023.　　
 https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-strong-momentum-says-cbank-gov-yi-2023-07-19/
 
 〔脚注33〕  
@@ -174,8 +173,8 @@ Anneke Kosse and Ilaria Mattei．“Making Headway: Results of the 2022 BIS Surv
 https://www.bis.org/publ/bppdf/bispap136.htm  
 
 〔脚注43〕  
-Bank for International Settlements．Central bank digital currencies: foundational principles and core features．October 2020．  
-https://www.bis.org/publ/othp33.htm  
+  Bank for International Settlements. Central bank digital currencies: foundational principles and core features. October 9, 2020.　
+https://www.bis.org/publ/othp33.htm
 
 〔脚注44〕  
 日本銀行．中央銀行デジタル通貨に関する日本銀行の取り組み方針．2020年10月9日．  
