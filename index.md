@@ -47,7 +47,7 @@ https://www.bis.org/press/p200121.htm
 
 〔脚注10〕
 日本銀行決済機構局．『中央銀行デジタル通貨に関する実証実験「概念実証フェーズ1」結果報告書』日本銀行，2022年4月．
-https://www.boj.or.jp/paym/digital/rel220413b.pdf　　
+https://www.boj.or.jp/paym/digital/rel220413b.pdf
 
 〔脚注11〕日本銀行決済機構局．中央銀行デジタル通貨に関する実証実験について．2023年2月17日．　
 https://www.boj.or.jp/paym/digital/dig230217b.pdf
