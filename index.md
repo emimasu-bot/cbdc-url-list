@@ -1,11 +1,11 @@
-「デジタル通貨の未来―日中のCBDC導入プロセスの比較を通じて」
-The Future of Digital Currency: Examined Through a Comparison of CBDC Implementation Processes in Japan and China
+#「デジタル通貨の未来―日中のCBDC導入プロセスの比較を通じて」
+##The Future of Digital Currency: Examined Through a Comparison of CBDC Implementation Processes in Japan and China
 参考文献リスト
 本ページは、上記論文で引用した参考文献を、URLを含めて一覧化したものである。 本文および脚注では字数制限の都合上URLを省略しており、本ページは参照利便のために全文献のURL情報を集約した補助資料である。
 最終閲覧日：2026年3月3日
 https://emimasu-bot.github.io/cbdc-url-list/
 
-【脚注1】 Anneke Kosse and Ilaria Mattei．“Making Headway: Results of the 2022 BIS Survey on Central Bank Digital Currencies and Crypto．” Bank for International Settlements，July 2023．https://www.bis.org/publ/bppdf/bispap136.pdf
+#【脚注1】 Anneke Kosse and Ilaria Mattei．“Making Headway: Results of the 2022 BIS Survey on Central Bank Digital Currencies and Crypto．” Bank for International Settlements，July 2023．https://www.bis.org/publ/bppdf/bispap136.pdf
 【脚注2】 関根栄一．「中国人民銀行が進めるデジタル人民元発行計画の概要と展望」．野村資本市場クォータリー 2020年夏号：182–197頁．https://www.nicmr.com/nicmr/report/repo/2020/2020sum13.pdf
 【脚注3】 Digital Pound Foundation．“ Travellers in China Can Now Top-Up Digital Yuan Wallets with Visa and Mastercard．” last modified September 25，2023．https://digitalpoundfoundation.com/travellers-in-china-can-now-top-up-digital-yuan-wallets-with-visa-and-mastercard
 【脚注4】 人民網日本語版「デジタル人民元のテスト拡大 国境を越えた利用を推進」．2021年3月．http://j.people.com.cn/n3/2021/0312/c94476-9828468.html（2026年3月3日最終閲覧）
