@@ -68,5 +68,5 @@ https://emimasu-bot.github.io/cbdc-url-list/
 - 【脚注56】 李立，丰张鑫蕾．盗窃法定数字货币行为的刑法认定．《武汉大学学报（哲学社会科学版）》77（3）（2024）：29–39頁．
 - 【脚注57】 “China Has Problems with Fake Wallets Copying Its Digital Yuan.” Protos, last modified February 27, 2024. https://protos.com/china-has-problems-with-fake-wallets-copying-its-digital-yuan/
 - 【脚注58】 松尾剛行・胡悦「個人情報の保護と国家のデータ利用」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月，75–105頁．
-- 【脚注59】 Bank for International Settlements.” Central bank digital currencies: foundational principles and core features.” October 2020. https://www.bis.org/publ/othp33.pdf
+- 【脚注59】 Bank for International Settlements. “Central bank digital currencies: foundational principles and core features.” October 2020. https://www.bis.org/publ/othp33.pdfhttps://www.bis.org/publ/othp33.pdf
 - 【脚注60】 加毛明「デジタル・トークンと法」金融・商事判例No.1611（2021年3月増刊号），2021年3月，6–12頁．
