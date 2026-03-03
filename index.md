@@ -1,7 +1,6 @@
- # 「デジタル通貨の未来―日中のCBDC導入プロセスの比較を通じて」
+## 【参考文献リスト】
+## 「デジタル通貨の未来―日中のCBDC導入プロセスの比較を通じて」
 ## The Future of Digital Currency: Examined Through a Comparison of CBDC Implementation Processes in Japan and China
-
-## 参考文献リスト
 
 本ページは、上記論文で引用した参考文献を、URLを含めて一覧化したものである。 本文および脚注では字数制限の都合上URLを省略しており、本ページは参照利便のために全文献のURL情報を集約した補助資料である。
 
