@@ -42,7 +42,7 @@ https://www.reuters.com/markets/asia/chinas-digital-yuan-transactions-seeing-str
 https://www.mpaypass.com.cn/news/202308/01174506.html
 
 - **【脚注7】**  
-岡野寿彦．「デジタル人民元の背景と展望」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法』弘文堂，2022年11月：195–211頁．
+岡野寿彦．「デジタル人民元の背景と展望」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月：195–211頁．
 
 - **【脚注8】**  
 経済産業省．「2023年のキャッシュレス決済比率を算出しました」．2024年3月29日．  
@@ -55,6 +55,7 @@ https://paymentsjapan.or.jp/publications/2022%E5%B9%B4%E3%81%AE%E4%B8%96%E7%95%8
 - **【脚注10】**  
 厚生労働省．「労働基準法施行規則の一部を改正する省令（厚生労働省令第158号）」．2022年11月28日．  
 https://www.mhlw.go.jp/content/11200000/001017141.pdf
+
 - **【脚注11】**  
 Naoko Kutty and Naoko Tochibayashi, “How Japan Is Moving Towards a Cashless Society with Digital Salary Payments,” World Economic Forum, September 20, 2022  
 https://www.weforum.org/stories/2022/09/japan-cashless-society-digital-salary-payment/
@@ -126,7 +127,7 @@ https://www.nri.com/content/900035347.pdf
 https://caijing.chinadaily.com.cn/a/202403/14/WS65f29c2ea3109f7860dd56a2.html
 
 - **【脚注29】**  
-Bank for International Settlements, “Project mBridge reached minimum viable product stage,” last modified November 11, 2024,  
+Bank for International Settlements, “Project mBridge reached minimum viable product stage,” last modified November 11, 2024  
 https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
 
 - **【脚注30】**  
@@ -144,7 +145,7 @@ Rae Wee．前掲注5．
 https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r153/r153_07.pdf
 
 - **【脚注34】**  
-Eiichi Sekine, “China’s Digital Yuan–Recent Trial Runs and Prospects for Its Use in International Settlements,” Nomura Journal of Asian Capital Markets 7, no. 1 (Autumn 2022): 4–8,  
+Eiichi Sekine, “China’s Digital Yuan–Recent Trial Runs and Prospects for Its Use in International Settlements,” *Nomura Journal of Asian Capital Markets* 7, no. 1 (Autumn 2022): 4–8  
 https://www.nomurafoundation.or.jp/wordpress/wp-content/uploads/2022/09/NJACM7-1AU22-02.pdf
 
 - **【脚注35】**  
@@ -159,8 +160,8 @@ https://www.nicmr.com/nicmr/report/repo/2022/2022aut04.pdf
 https://www.iima.or.jp/docs/international/2022/if2022.9.pdf
 
 - **【脚注38】**  
-“China Expands Digital Yuan Trials to More Cities,” Bloomberg, April 2, 2022,  
-https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities.
+“China Expands Digital Yuan Trials to More Cities,” Bloomberg, April 2, 2022  
+https://www.bloomberg.com/news/articles/2022-04-02/china-expands-digital-yuan-trials-to-more-cities
 
 - **【脚注39】**  
 国务院．《政府工作报告——2021年3月5日在第十三届全国人民代表大会第四次会议上》．2021年3月5日．  
@@ -174,7 +175,7 @@ https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2025092212551077683/index.ht
 岡野寿彦．前掲注7：24–25頁，30頁．
 
 - **【脚注42】**  
-Liu Ran, Wu Xiaomeng, and Denise Jia, “Cover Story: The Challenges Ahead for China’s Digital Yuan,” Caixin Global, August 15, 2022,  
+Liu Ran, Wu Xiaomeng, and Denise Jia, “Cover Story: The Challenges Ahead for China’s Digital Yuan,” Caixin Global, August 15, 2022  
 https://www.caixinglobal.com/2022-08-15/cover-story-the-challenges-ahead-for-chinas-digital-yuan-101926118.htm
 
 - **【脚注43】**  
@@ -207,29 +208,25 @@ https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/20250527haifu.html
 久保田隆．『法律学者の貨幣論: デジタル通貨・CBDCの未来』中央経済グループパブリッシング，2023年9月：208頁．
 
 - **【脚注51】**  
-久保田隆．前掲注50：213頁．
-
-- **【脚注52】**  
 Fintech在线．注意：数字人民币不计付利息 怎样正确使用？．2022年1月4日．  
 https://www.sohu.com/a/514267051_100078323
 
-- **【脚注53】**  
+- **【脚注52】**  
 中国人民银行．前掲注21．
 
-- **【脚注54】**  
+- **【脚注53】**  
 李立，丰张鑫蕾．盗窃法定数字货币行为的刑法认定．《武汉大学学报（哲学社会科学版）》77（3）（2024）：29–39頁．
 
-- **【脚注55】**  
-Protos Staff, “China Has Problems with Fake Wallets Copying Its Digital Yuan,” Protos, February 27, 2024,  
+- **【脚注54】**  
+Protos Staff, “China Has Problems with Fake Wallets Copying Its Digital Yuan,” Protos, February 27, 2024  
 https://protos.com/china-has-problems-with-fake-wallets-copying-its-digital-yuan/
 
-- **【脚注56】**  
+- **【脚注55】**  
 松尾剛行・胡悦．「個人情報の保護と国家のデータ利用」石本茂彦・松尾剛行・森脇章編『中国のデジタル戦略と法―中国情報法の現在地とデジタル社会のゆくえ』弘文堂，2022年11月：75–105頁．
 
-- **【脚注57】**  
-Bank for International Settlements, Central Bank Digital Currencies: Foundational Principles and Core Features (Bank for International Settlements, October 2020),  
+- **【脚注56】**  
+Bank for International Settlements, *Central Bank Digital Currencies: Foundational Principles and Core Features* (Bank for International Settlements, October 2020)  
 https://www.bis.org/publ/othp33.pdf
 
-- **【脚注58】**  
+- **【脚注57】**  
 加毛明．「デジタル・トークンと法」金融・商事判例No.1611（2021年3月増刊号），2021年3月：6–12頁．
-
